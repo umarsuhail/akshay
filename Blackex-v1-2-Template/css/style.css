@@ -1144,6 +1144,7 @@ margin: 0 5px 0 4px;
   .main-navigation-bg .logo .logo-dark {
     top: 0;
 	margin: 0;
+  width: 100px;
   }
 }
 
@@ -3124,7 +3125,7 @@ display: none;
          -o-background-size: cover;
             background-size: cover;
 			/* uncomment the following to show an image for mobile devices */
-            /* display: block; */
+             display: block; 
   }
 }
 
@@ -3160,7 +3161,7 @@ display: none;
          -o-background-size: cover;
             background-size: cover;
 			/* uncomment the following to show an image for mobile devices */
-            /* display: block; */
+             display: block; 
   }
   
   #vimeo-videoContainment {
@@ -3206,7 +3207,7 @@ display: none;
          -o-background-size: cover;
             background-size: cover;
 			/* uncomment the following to show an image for mobile devices */
-            /* display: block; */
+             display: block; 
   }
 }
 
